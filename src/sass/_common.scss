@@ -1,1 +1,10 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+@import '~node_modules/material-icons/iconfont/material-icons.css';
+
+.wrap {
+  max-width: 1200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
